@@ -4,9 +4,14 @@
 
 - NYC Open Data Dataset: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243 
 
+## Introduction
+
+The NYC Open Data Dataset includes all crimes reported to the New York City Police Department (NYPD) within multiple boroughs in NYC. The Goal of the project is to predict the frequency or the level of offense depending on different factors associated with the registered complaint and to analyze the factors in the dataset and eventually leading to the crime trend. 
+
 ## Objective
 
-The main objective of this analysis to is to explore NYPD Complaint data provided from NYC Open Data. This analysis is insired by increased focused on policing in the United States over the past year. We hope to make unbiased observations on crime trends using the developed model.
+The main objective of this analysis to is to explore NYPD Complaint data provided from NYC Open Data. 
+This analysis is insired by increased focused on policing in the United States over the past year. We hope to make unbiased observations on crime trends using the developed model.
 
 NYC Open Data is an open source for all types of data related to New York City. The data set we will be working with is a collection of all felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD).
 
