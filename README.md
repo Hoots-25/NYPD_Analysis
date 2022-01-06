@@ -12,4 +12,13 @@ NYC Open Data is an open source for all types of data related to New York City. 
 
 Specifically, the analysis will examine crime descriptions, times, and locations to create a model that will predict when and where a particular type of crime may occur. Furthermore, this will be supplemented by a tableau heat map to show areas with high crime rate. Time permitting and given the expanse of the data available, we can see if crime rates change over months/years.
 
+## Team
+
+Dom Avanzi
+
+Zach Zydonik 
+
+Mary Kate Shea
+
+Jason Yoo
 
