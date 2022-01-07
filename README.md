@@ -14,7 +14,7 @@ The main objective of this analysis to is to explore NYPD Complaint data provide
 
 NYC Open Data is an open source for all types of data related to New York City. The data set we will be working with is a collection of all felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD).
 
-Specifically, the analysis will examine crime descriptions, times, locations, ect. to create a model that will predict the type of crime most likely to occur. Furthermore, this will be supplemented by a tableau heat map to show areas with high crime rate. Time permitting and given the expanse of the data available, we can see if crime rates change over months/years.
+Specifically, the analysis will examine crime descriptions, times, locations, etc. to create a model that will predict the type of crime most likely to occur. Furthermore, this will be supplemented by a tableau heat map to show areas with high crime rate. Time permitting and given the expanse of the data available, we can see if crime rates change over months/years.
 
 ## Team
 
