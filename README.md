@@ -18,13 +18,13 @@ Specifically, the analysis will examine crime descriptions, times, locations, et
 
 ## Team
 
--Dom Avanzi
+- Dom Avanzi
 
--Zach Zydonik 
+- Zach Zydonik 
 
--Mary Kate Shea
+- Mary Kate Shea
 
--Jason Yoo
+- Jason Yoo
 
 
 
