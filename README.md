@@ -26,6 +26,14 @@ Specifically, the analysis will examine crime descriptions, times, locations, ec
 
 - Jason Yoo
 
+## Dataset
+The data used contains 36 columns and spans over 324 thousand rows. Of the 36 columns, this analysis will be looking at the followin:
+* Police precinct
+* Borough location
+* Offense occurence time
+* Offense classification code
+* Offense description
+* Offense Latitude & Longitude
 
-
-
+Using the above columns of the dataset will allow the creation of a predictive model to pin point times and locations of various offenses.
+Additionally, the dataset also shows age, race, and ethnicity of the suspects and victims. These descriptors can also be used to draw futher conclusions on the overall crime statistics within New York City.
