@@ -37,3 +37,12 @@ The data used contains 36 columns and spans over 324 thousand rows. Of the 36 co
 
 Using the above columns of the dataset will allow the creation of a predictive model to pin point times and locations of various offenses.
 Additionally, the dataset also shows age, race, and ethnicity of the suspects and victims. These descriptors can also be used to draw futher conclusions on the overall crime statistics within New York City.
+
+## Basic Descriptors
+Crime by borough looks like this:
+
+![](./Resources/crime_by_borough.png)
+
+Example of crime in just the Bronx borough:
+
+![](./Resources/bronx_crimes.png))
