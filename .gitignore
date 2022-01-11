@@ -2,6 +2,9 @@
 NYPD_Complaint_Data.csv
 .Rhistory
 
+#Ignore the config file
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
