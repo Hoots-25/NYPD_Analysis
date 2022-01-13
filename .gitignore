@@ -1,5 +1,6 @@
 #Ignore the data file because its > 100 MB
 NYPD_Complaint_Data.csv
+violent_crime.csv
 .Rhistory
 
 #Ignore the config file
