@@ -41,8 +41,20 @@ Additionally, the dataset also shows age, race, and ethnicity of the suspects an
 ## Basic Descriptors
 Crime by borough looks like this:
 
-![](./Resources/crime_by_borough.png)
+<img src = "./Resources/crime_by_borough.png"  width="480" height="400">
 
 Example of crime in just the Bronx borough:
 
-![](./Resources/bronx_crimes.png))
+<img src = "./Resources/bronx_crimes.png" width="480" height="480">
+
+## Tableau Dashboard
+
+The dashboard link can be found [here](https://public.tableau.com/views/NYPDCrimeAnalysis_16420473832580/2021NYPDComplainLocationMapard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+The Dashoboard allows users to select the following filters to narrow down complaints and crimes for the year of 2021:
+* Type of Complaint (Violent vs Non-Violent)
+* Borough Location
+* Month of Complaint
+* Offense Description
+
+<img src = "./Resources/dashboard_screenshot.png" width="720" height="480">
