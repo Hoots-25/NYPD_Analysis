@@ -19,11 +19,8 @@ Specifically, the analysis will examine crime descriptions, times, locations, et
 ## Team
 
 - Dom Avanzi
-
 - Zach Zydonik 
-
 - Mary Kate Shea
-
 - Jason Yoo
 
 ## Dataset
