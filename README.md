@@ -10,7 +10,7 @@ The NYC Open Data Dataset includes all crimes reported to the New York City Poli
 
 ## Objective
 
-The main objective of this analysis to is to explore NYPD Complaint data provided from NYC Open Data using the Random Forest classification logistic regression model. This analysis is insired by increased focused on policing in the United States over the past year. We hope to make unbiased observations on crime trends using the developed model.
+The main objective of this analysis to is to explore NYPD Complaint data provided from NYC Open Data using the Random Forest classification logistic regression model. This analysis is inspired by increased focused on policing in the United States over the past year. We hope to make unbiased observations on crime trends using the developed model.
 
 NYC Open Data is an open source for all types of data related to New York City. The data set we will be working with is a collection of all felony, misdemeanor, and violation crimes reported to the New York City Police Department.
 
@@ -35,7 +35,7 @@ The data used contains 36 columns and spans over 324 thousand rows. Of the 36 co
 * Offense description
 * Offense Latitude & Longitude
 
-Using the above columns of the dataset will allow the creation of a predictive model to pin point times and locations of various offenses.
+Using the above columns of the dataset will allow the creation of a predictive model to pinpoint times and locations of various offenses.
 Additionally, the dataset also shows age, race, and ethnicity of the suspects and victims. These descriptors can also be used to draw futher conclusions on the overall crime statistics within New York City.
 
 ## Basic Descriptors
