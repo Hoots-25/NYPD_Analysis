@@ -2,7 +2,11 @@
 
 ## Resources
 
-- NYC Open Data Dataset: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243 
+### NYC Open Data Dataset 
+https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243 
+
+### Google Slides Presentation
+https://docs.google.com/presentation/d/1ap0BqMae3k6C__HZCTE_iIljeR_qzX0vpkj57T-e4C8/edit?usp=sharing
 
 ## Introduction
 
