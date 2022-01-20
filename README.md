@@ -50,7 +50,7 @@ Example of crime in just the Bronx borough:
 
 ## Tableau Dashboard
 
-The dashboard link can be found [here](https://public.tableau.com/views/NYPDCrimeAnalysis_16420473832580/2021NYPDComplainLocationMapard?:language=en-US&:display_count=n&:origin=viz_share_link)
+The dashboard link can be found [here](https://public.tableau.com/views/NYPDCrimeAnalysis_16420473832580/2021NYPDComplaintDatabase_1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 The Dashoboard allows users to select the following filters to narrow down complaints and crimes for the year of 2021:
 * Type of Complaint (Violent vs Non-Violent)
