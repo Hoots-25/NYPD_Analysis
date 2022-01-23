@@ -17,11 +17,11 @@ The NYC Open Data Dataset includes all crimes reported to the New York City Poli
 
 ## Objective
 
-The main objective of this analysis to is to explore NYPD Complaint data provided from NYC Open Data using the Random Forest classification logistic regression model. This analysis is inspired by increased focused on policing in the United States over the past year. We hope to make unbiased observations on crime trends using the developed model.
+The main objective of this analysis to is to explore NYPD Complaint data provided from NYC Open Data using a Random Forest classification logistic regression model. This analysis is inspired by increased focused on policing in the United States over the past year. We hope to make unbiased observations on crime trends using the developed model.
 
 NYC Open Data is an open source for all types of data related to New York City. The data set we will be working with is a collection of all felony, misdemeanor, and violation crimes reported to the New York City Police Department.
 
-Specifically, the analysis will examine crime descriptions, times, locations, etc. to create a binary classification model that will predict whether or not the type of crime committed is likely to be a violent crime. Furthermore, this will be supplemented by Tableau heat maps to show high crime areas per crime type. Time permitting and given the expanse of the data available, we can see if crime rates change over months/years.
+Specifically, the analysis will examine crime descriptions, times, locations, etc. to create a binary classification model that will predict whether or not the type of crime committed is likely to be a violent crime. Furthermore, this will be supplemented by Tableau location heat maps to show high crime areas per crime type. Time permitting and given the expanse of the data available, we can see if crime rates change over months/years.
 
 ## Team
 
@@ -41,6 +41,19 @@ The data used contains 36 columns and spans over 324 thousand rows. Of the 36 co
 
 Using the above columns of the dataset will allow the creation of a predictive model to pinpoint times and locations of various offenses.
 Additionally, the dataset also shows age, race, and ethnicity of the suspects and victims. These descriptors can also be used to draw futher conclusions on the overall crime statistics within New York City.
+
+
+## Creating the Database (Postgres)
+The dataset was cleaned via pandas and uploaded directly to a SQL database via Postgres. The following code uploaded the target and features necessary for the random forest classification model:
+
+```
+from sqlalchemy import create_engine
+from config import db_password
+db_string = f"postgresql://postgres:{db_password}@127.0.0.1:5432/NYPD_Complaints"
+engine = create_engine(db_string)
+Target.to_sql(name='Target', con=engine)
+Features.to_sql(name='Features', con=engine)
+```
 
 ## Basic Descriptors
 Crime by borough looks like this:
