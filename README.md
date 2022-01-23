@@ -8,6 +8,9 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-
 ### Google Slides Presentation
 https://docs.google.com/presentation/d/1ap0BqMae3k6C__HZCTE_iIljeR_qzX0vpkj57T-e4C8/edit?usp=sharing
 
+### Tableau Dashboard 
+https://public.tableau.com/views/NYPDCrimeAnalysis_16420473832580/2021NYPDComplaintDatabase_1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Introduction
 
 The NYC Open Data Dataset includes all crimes reported to the New York City Police Department (NYPD) within multiple boroughs in NYC. The Goal of the project is to predict whether or not a crime would be classified as "violent" depending on the different factors associated with the registered complaint. 
