@@ -75,3 +75,11 @@ The Dashoboard allows users to select the following filters to narrow down compl
 * Offense Description
 
 <img src = "./Resources/dashboard_screenshot.png" width="720" height="480">
+
+## Random Forest Predictive Model
+
+The following are the results of the using the a balanced random forest predive model to predict if a reported crime will be violent or non-violent.
+
+![image_name](Resources/Confusion_Matrix.png)
+
+![image_name](Resources/1.png)
