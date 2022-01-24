@@ -82,4 +82,4 @@ The following are the results of the using the a balanced random forest predive 
 
 ![image_name](Resources/Confusion_Matrix.png)
 
-![image_name](Resources/1.png)
+![image_name](Resources/Variable_influence.png)
