@@ -78,8 +78,9 @@ The Dashoboard allows users to select the following filters to narrow down compl
 
 ## Random Forest Predictive Model
 
-The following are the results of the using the a balanced random forest predive model to predict if a reported crime will be violent or non-violent.
+The following results of the balanced random forest predive model describe the model's ability to predict if a reported crime will be violent or non-violent.
 
+Below is the resulant confusion matrix. As can be seen in the matrix, there are 8097 actual violent crimes that were predicted as such and 5002 that were incorrectly predicted as nonviolent. Depending on the required specificity of the model, this shows the recall of the model may need to be improved.
 ![image_name](Resources/Confusion_Matrix.png)
 
 ![image_name](Resources/Variable_influence.png)
