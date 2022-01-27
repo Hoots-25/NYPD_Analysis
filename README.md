@@ -86,4 +86,4 @@ Below is the resulant confusion matrix. As can be seen in the matrix, there are 
 ![image_name](Resources/Confusion_Matrix.png)
 
 The following chart shows the influence of each variable on the resulting predictive model. As can be seen in the chart, the category of the drime (felony, midemeaner, etc) has the largest influence on the model. It may be argued that this variable should be dropped since this cannot be predicted before the crime happens. This may be considered for future analysis. 
-![image_name](Resources/Variable_influence.png)
+![image_name](Resources/Variable_influence.png) 
