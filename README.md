@@ -58,7 +58,7 @@ Features.to_sql(name='Features', con=engine)
 ## Basic Descriptors
 Crime by borough looks like this:
 
-<img src = "./Resources/crime_by_borough.png"  width="480" height="400">
+<img src = "./Resources/crime_by_borough.png"  width="480" height="400"> 
 
 Example of crime in just the Bronx borough:
 
